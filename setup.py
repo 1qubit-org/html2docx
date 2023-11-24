@@ -7,6 +7,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         "beautifulsoup4==4.12.2",
-        "python-docx==0.8.10"
+        "python-docx==1.1.0"
     ],
 )
